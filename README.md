@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms</b>
   - [Find Optimal Bus Route](https://github.com/malcolm5964/DSA-Bus-Route)
-- <b>LLM </b>
+- <b>Generative AI </b>
   - [DSA Learning Chatbot](https://github.com/malcolm5964/LLM-Chatbot) <b><i>(Ollama, Langchain, Langgraph, RAG)</b></i>
 - <b>Embedded System</b>
   - [Car](https://github.com/malcolm5964/INF2004_Embedded_T68)
