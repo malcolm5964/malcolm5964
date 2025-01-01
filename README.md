@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Malcolm! <br/></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms</b>
+  - [Find Optimal Bus Route](https://github.com/malcolm5964/DSA-Bus-Route)
+- <b>LLM </b>
+  - [DSA Learning Chatbot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Ollama, Langchain, Langgraph, RAG)</b></i>
+- <b>Embedded System</b>
+  - [Car](https://github.com/malcolm5964/INF2004_Embedded_T68)
+
+
 
 <!--
-**malcolm5964/malcolm5964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
