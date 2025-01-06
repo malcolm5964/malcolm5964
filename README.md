@@ -9,7 +9,7 @@
 - <b>Embedded System</b>
   - [Maze Navigating Car](https://github.com/malcolm5964/INF2004_Embedded_T68)
 - <b>Mobile Development</b>
-  - [Android AR Chemistry](https://github.com/malcolm5964/INF2004_Embedded_T68) <b>(Kotlin, SceneView, SQLite, FireBase)</b>
+  - [Android AR Chemistry](https://github.com/malcolm5964/Android-AR-Chemistry) <b>(Kotlin, SceneView, SQLite, FireBase)</b>
 
 
 <!--
