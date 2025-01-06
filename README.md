@@ -8,7 +8,8 @@
   - [DSA Learning Chatbot](https://github.com/malcolm5964/LLM-Chatbot) <b><i>(Ollama, Langchain, Langgraph, RAG)</b></i>
 - <b>Embedded System</b>
   - [Maze Navigating Car](https://github.com/malcolm5964/INF2004_Embedded_T68)
-
+- <b>Mobile Development</b>
+  - [Android AR Chemistry](https://github.com/malcolm5964/INF2004_Embedded_T68)
 
 
 <!--
