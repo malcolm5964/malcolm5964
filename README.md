@@ -5,11 +5,11 @@
 - <b>Data Structures and Algorithms</b>
   - [Find Optimal Bus Route](https://github.com/malcolm5964/DSA-Bus-Route)
 - <b>Generative AI </b>
-  - [DSA Learning Chatbot](https://github.com/malcolm5964/LLM-Chatbot) <b><i>(Ollama, Langchain, Langgraph, RAG)</b></i>
+  - [DSA Learning Chatbot](https://github.com/malcolm5964/LLM-Chatbot) <b>(Ollama, Langchain, Langgraph, RAG)</b>
 - <b>Embedded System</b>
   - [Maze Navigating Car](https://github.com/malcolm5964/INF2004_Embedded_T68)
 - <b>Mobile Development</b>
-  - [Android AR Chemistry](https://github.com/malcolm5964/INF2004_Embedded_T68)
+  - [Android AR Chemistry](https://github.com/malcolm5964/INF2004_Embedded_T68) <b>(Kotlin, SceneView, SQLite, FireBase)</b>
 
 
 <!--
